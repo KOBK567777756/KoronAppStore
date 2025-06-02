@@ -1,0 +1,7 @@
+{
+  "name": "CoolApp",
+  "version": "1.0",
+  "description": "A really cool app.",
+  "apk_url": "https://raw.githubusercontent.com/yourusername/myappstore-repo/main/apps/CoolApp/CoolApp.apk",
+  "icon_url": "https://raw.githubusercontent.com/yourusername/myappstore-repo/main/apps/CoolApp/icon.png"
+}
